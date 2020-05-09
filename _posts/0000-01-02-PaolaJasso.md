@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Alive. Aha. Fuck.
+Alive. Aha. _Fuck_.
 Use the left arrow to go back!
